@@ -7,6 +7,7 @@ import github from '../assets/github.svg';
 import html from '../assets/html.svg';
 import js from '../assets/js.svg';
 import mongodb from '../assets/mongodb.svg';
+import node from '../assets/node.png';
 import react from '../assets/react.svg';
 import netlify from '../assets/netlify-logo.png';
 import heroku from '../assets/heroku.png';
@@ -34,6 +35,7 @@ const SkillsSection = () => {
                         <img src={bootstrap} alt="bootstrap" title='bootstrap'/>
                         <img src={js} alt="javascript" title='javascript'/>
                         <img src={react} alt="styledc" title='react' />
+                        <img src={node} alt="node" title='node'/>
                         <img src={nosql} alt="nosql" title='nosql'/>
                         <img src={mongodb}  alt="mongodb" title='mongodb' />
                         <img src={git} alt="git" title='git'/>
