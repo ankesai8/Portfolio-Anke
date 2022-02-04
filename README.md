@@ -1,9 +1,7 @@
- 
-<br />
 
 * Preview of the landing page 👇
 
-![Go Live](https://portfolio-anke-sai-8.vercel.app/)
+[Go Live](https://portfolio-anke-sai-8.vercel.app/)
 
 ### Built With
 
