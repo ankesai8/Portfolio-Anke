@@ -3,7 +3,7 @@
 
 * Preview of the landing page 👇
 
-![Long content SPA](https://res.cloudinary.com/di32yybrd/image/upload/v1634248111/portfolio/Andreea_Egli_-_P_4_b8tnkk.png)
+![Go Live](https://portfolio-anke-sai-8.vercel.app/)
 
 ### Built With
 
@@ -16,5 +16,3 @@
 #### Animations
 * [aos](https://michalsnik.github.io/aos/)
 
-
-[LIVE version](https://andreaegli.tech/)
