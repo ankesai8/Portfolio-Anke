@@ -1,7 +1,7 @@
 
 * Preview of the landing page 👇
 
-[Go Live](https://portfolio-anke-sai-8.vercel.app/)
+[Click](https://portfolio-anke-sai-8.vercel.app/) for Deployed Site of [Portfolio](https://github.com/ankesai8/Portfolio-Anke)
 
 ### Built With
 
