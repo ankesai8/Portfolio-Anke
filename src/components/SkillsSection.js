@@ -11,6 +11,7 @@ import react from '../assets/react.svg';
 import netlify from '../assets/netlify-logo.png';
 import heroku from '../assets/heroku.png';
 import vscode from '../assets/vscode.svg';
+import vercel from '../assets/vercel.png';
 import styled from 'styled-components';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
@@ -40,6 +41,7 @@ const SkillsSection = () => {
                         <img src={vscode} alt="vscode" title='vs code'/>
                         <img src={netlify} alt="netlify" title='netlify'/>
                         <img src={heroku} alt="heroku" title='heroku'/>
+                        <img src={vercel} alt="vercel" title='vercel'/>
                      
                     </Icons>
         </DivWrapper>
